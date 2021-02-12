@@ -1,0 +1,10 @@
+.Removebutton{
+    margin-left: 10px;
+    padding: 4px;
+    border-radius: 3px;
+    border: none;
+    background-color: lightblue;
+}
+.text{
+    margin-left: 28px;
+}
